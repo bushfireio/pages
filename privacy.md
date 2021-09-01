@@ -1,12 +1,12 @@
 # Privacy Policy
 
-__Updated: 27 August 2021__
+__Updated:__ 01 September 2021
 
 Disaster Science Pty Ltd (hereinafter 'Disaster Science') is a company incorporated within Australia and we are therefore subject to Australian laws.
 
 We are a ‘small business operator’ within the meaning of the *Privacy Act 1988 (Cth)*. This means the requirements of the *Privacy Act 1988 (Cth)* do not apply to us. Despite this, we take our moral responsibility relating to privacy seriously and have set forth our Privacy Policy below.
 
-Should you have any inquiries or complaints regarding how we deal with personal information and/or privacy, please contact us at privacy@bushfire.io.
+Should you have any inquiries or complaints regarding how we deal with personal information and/or privacy, please contact us at privacy@disasterscience.co.
 
 ## Collection of your personal information
 
@@ -38,4 +38,4 @@ If you would like to access your personal information held by Disaster Science, 
 ## Contacting us
 We welcome your comments regarding this Privacy Policy. If you have any questions or would like further information, please contact us by the following means:
 
-E-mail: privacy@bushfire.io
+E-mail: privacy@disasterscience.co
