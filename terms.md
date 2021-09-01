@@ -81,20 +81,20 @@ __Updated:__ 01 September 2021
     5. A reference to a &quot;person&quot; includes an individual, a firm, a body corporate, a partnership, a joint venture, an unincorporated body or association or any authority.
     6. References to dollars or $ is a reference to Australian dollars, unless denoted as referring to an international currency.
 
-### Nature of this Agreement
+    ### Nature of this Agreement
 
 3. (Consent to this Agreement): By making the relevant clickwrap consent or checking / ticking the relevant box at the end of this Agreement (or as otherwise set out by Disaster Science), the User agrees and acknowledges that the User:
 
     1. has read and understood the terms of this Agreement; and
     2. has accepted and agrees to be bound by all terms of this Agreement.
 
-### Provision of Services
+    ### Provision of Services
 
 4. (Provision of Services): Disaster Science agrees to provide the Services to the User on and subject to the terms of this Agreement.
 
 5. (Third Parties): The User acknowledges that the Services may be reliant on Third Parties that Disaster Science has no control over. Disaster Science makes no warranty or representation on the availability of any Third Party. If Third Party services or Services are unavailable or cannot be accessed by Disaster Science, Disaster Science may cease to supply the Services, and the User is not entitled to any refund, discount or other compensation. In the event that a Third Party is not available, or a component of the Services, are ceased, Disaster Science will use reasonable efforts to restore the Services in a timely manner, either incrementally or in full where reasonably possible.
 
-### User Obligations
+    ### User Obligations
 
 6. (Default Use of Services): The User, must:
 
@@ -121,7 +121,7 @@ __Updated:__ 01 September 2021
     3.  it may breach any laws; or
     4.  it involves fraudulent activity.
 
-### Services Fee and Expenses
+    ### Services Fee and Expenses
 
 9. (Fee): In consideration of the provision of the Services the User agrees to pay the Services Fee to the Disaster Science.
 
@@ -137,7 +137,8 @@ __Updated:__ 01 September 2021
 
 15. (Tax and withholding): The Services Fee is exclusive of any applicable tax including any withholding tax, value added tax, goods and services tax, surcharges and/or any other similar tax. Subject to any further agreement, the parties agree that any legally owed value added tax, goods and services tax, surcharges or any other similar tax which may be due on the Services Fee, shall be levied in addition to the Services Fee in accordance with the applicable laws.
 
-### Data
+    ### Data
+
 16. (Confidential Information): Disaster Science acknowledges that the User Data is the User’s Confidential Information.
 
 17. (User has sole responsibility for User Data): The User agrees that it has sole responsibility for the accuracy, integrity, legal compliance, reliability, appropriateness, and rights ownership in all the User Data.
@@ -161,12 +162,14 @@ __Updated:__ 01 September 2021
 
 23. (International Storage of Data): The User agrees and acknowledges that Disaster Science may store User Data (including any Personal Information) in secure servers, or that User Data may be cached by third parties beyond Disaster Science’s control, unless otherwise agreed in writing between the parties.
 
-### Intellectual Property
+    ### Intellectual Property
+
 24. Subject to clause 25, title to, and all Intellectual Property Rights in, the Services, any website, anything developed or delivered under this Agreement and all Underlying Systems is and remains the property of Disaster Science (and its licensors).
 
 25. Title to, and all Intellectual Property Rights in, the User Data remains the property of the User. The User grants Disaster Science a worldwide, non-exclusive, fully paid up, transferable, irrevocable licence to use, store, copy, modify, make available and communicate the User Data for any purpose in connection with the exercise of its rights and performance of its obligations in accordance with this Agreement.
 
-### Term
+    ### Term
+
 26. (Duration): Unless terminated in accordance with this clauses 26 to 28, this Agreement: (a) starts on the Commencement Date; and (b) continues for so long as the User makes use of the Services (Term).
 
 27. (Obligations Continuing): Clauses which, by their nature, are intended to survive termination or expiry of this Agreement, including clauses 6 to 8 (User Obligations), clause 16 to 23 (Data), clauses 24 and 25 (Intellectual Property), clause 1 (Confidentiality), clauses 26 and 27 (Term, Termination and Suspension), clauses 29 to 31 (Warranties), clauses 31 to 35 (Indemnity and Liability), clause 1 (Force Majeure and Disputes), clause 36 (Subcontracting and Assignment) and clauses 37 to 42 (General Provisions), shall continue in force.
@@ -179,7 +182,8 @@ __Updated:__ 01 September 2021
     3. transmitted, inputted or stored any data that breaches or may breach this Agreement or any third party right (including Intellectual Property Rights and privacy rights), or that is or may be Objectionable, incorrect or misleading; or
     4. otherwise materially breached the Agreement.
 
-### Warranties
+    ### Warranties
+
 29. (General Warranties): Each party (each a Warranting Party) warrants to the other party:
     1. The execution and delivery of this Agreement has been properly authorised by all necessary action of the Warranting Party.
     2. The Warranting Party has full power and authority to execute and deliver this Agreement and to perform or cause to be performed its obligations under this Agreement.
@@ -191,7 +195,8 @@ __Updated:__ 01 September 2021
 
 31. (Disclaimer): The User acknowledges that the Services, and the output and deliverable of the Services, rely on data generated or provided by third parties and Disaster Science is not liable or responsible for any damages, harms, errors, misunderstandings, inappropriateness, omissions or inaccuracies in the Services, or for the User’s reliance on the information therein, or for the operation, completeness or quality of the Services. The User warrants that it is the sole owner of all User Data incorporated in its use of the Services and the User acknowledges that its use of the Services is strictly at its own risk.
 
-### Indemnity and Liability
+    ### Indemnity and Liability
+
 32. (Indemnification by User):
     1.  Subject to clause 32.2, the User must at all times indemnify and hold harmless Disaster Science, its officers, employees, contractors and agents from and against any liability, loss, claim, cost, penalty and demand (including any legal costs and expenses) incurred or suffered by Disaster Science where such liability, loss, claim, cost, penalty or demand arises out of or in respect of this Agreement including the provision of Services by Disaster Science to the User and the User’s breach of the Agreement.
 
@@ -203,10 +208,12 @@ __Updated:__ 01 September 2021
 
 35. (Compliance with Law): Disaster Science is not liable to the User under this Agreement or otherwise if and to the extent the User’s access to or use of Services is contrary to obligations, including those owed under any contracts or any laws.
 
-### Subcontracting and Assignment
+    ### Subcontracting and Assignment
+
 36. (Disaster Science Assignment): Disaster Science may, at any time, assign, novate, subcontract or transfer any right or obligation under this Agreement without the prior written consent of the User. Disaster Science remains liable for its obligations under this Agreement despite any assignment, subcontracting or transfer.
 
-### General Provisions
+    ### General Provisions
+
 37. (Entire Agreement): This Agreement comprises the parties’ entire understanding in relation to the subject matter of this Agreement and supersedes any prior Agreement or arrangement.
 
 38. (Cumulative): The rights, remedies and powers of the parties under this Agreement are cumulative and not exclusive of any rights, remedies or powers provided to the parties by law.

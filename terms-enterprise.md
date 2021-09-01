@@ -9,7 +9,7 @@ __Updated:__ 01 September 2021
 
 ## Background
 
-*1*. By making the relevant clickwrap consent or checking / ticking the relevant box at the end of this Agreement (or as otherwise set out by the Supplier), the Recipient agrees and acknowledges that the Recipient:
+1. By making the relevant clickwrap consent or checking / ticking the relevant box at the end of this Agreement (or as otherwise set out by the Supplier), the Recipient agrees and acknowledges that the Recipient:
 
    1. has read and understood the terms of this Agreement; and
 
@@ -76,13 +76,13 @@ __Updated:__ 01 September 2021
 
 3. (Drafting responsibility): No provision of this Agreement is to be construed against a party because that party (or that party&#39;s adviser) was responsible for drafting it.
 
-### Nature of this Agreement
+    ### Nature of this Agreement
 
 4. (Binding nature of Agreement): Each party agrees that this Agreement is binding on that party&#39;s legal personal representative, heirs, successors and permitted assigns.
 
 5. (Exclusion of agency and partnership): Nothing in this Agreement is to be treated as creating a partnership, joint or co-venture or fiduciary obligation between the parties, or any two or more of them, under the laws of any applicable jurisdiction and, except as specifically provided in this Agreement, no party may act or has any authority to act as agent of or trustee for or in any way bind or commit any other party to any obligation.
 
-### Objectives and Implementation
+    ### Objectives and Implementation
 
 6. (Objectives): Each party creates this Agreement for the purpose of regulating the provision of Services and resources between the parties, and in respect of the Business.
 
@@ -92,19 +92,19 @@ __Updated:__ 01 September 2021
     2. ( **Action** ): perform, or procure the performance of, any action within its power or control necessary or desirable to perform this Agreement; and
     3. ( **Decision** ): not unreasonably delay any action, consent or decision required by that party under this Agreement.
 
-### Commencement, Term and Termination
+    ### Commencement, Term and Termination
 
 8. (Commencement): Unless expressly stated otherwise in this Agreement, the rights and obligations created by this Agreement commence on, and are enforceable from, the Commencement Date.
 
 9. (Term and termination): This Agreement will continue in full force and effect until it is terminated pursuant to its terms.
 
-### Provision of Services
+    ### Provision of Services
 
 10.  (Provision of Services): The Supplier agrees to provide the Services to the Recipient on and subject to the terms of this Agreement.
 
 11. (Arm&#39;s Length Transactions): Unless otherwise agreed, the parties must ensure that the Services are performed on commercial, arm&#39;s length terms in accordance with current market practice.
 
-### Recipient Obligations
+    ### Recipient Obligations
 
 12. (Default Use of Services): Unless otherwise agreed in writing or as part of a Product offering by the Supplier forming Schedule 2, the Recipient must:
 
@@ -131,7 +131,7 @@ __Updated:__ 01 September 2021
     3. it may breach any laws; or
     4. it involves fraudulent activity.
 
-### Services Fee and Expenses
+    ### Services Fee and Expenses
 
 15. (Fee): In consideration of the provision of the Services the Recipient agrees to pay the Services Fee to the Supplier.
 
@@ -148,20 +148,20 @@ __Updated:__ 01 September 2021
 21. (Tax and withholding): The Services Fee is exclusive of any applicable tax including any withholding tax, value added tax, goods and services tax, surcharges and/or any other similar tax. Subject to any further agreement, the parties agree that any legally owed value added tax, goods and services tax, surcharges or any other similar tax which may be due on the Services Fee, shall be levied in addition to the Services Fee in accordance with the applicable laws.
 
 
-### Limitation of Liability
+    ### Limitation of Liability
 
 22. (Limitation): To the extent that the Supplier is liable for breach of contract in connection with the supply of the Services to the Recipient, the Supplier excludes liability for loss of profit or product, increased cost of production, loss of customer goodwill, or other special punitive, indirect or consequential loss or damage and, to the extent permitted by law, personal injury or death.
 
 23. (Indemnity): The Recipient agrees to indemnify the Supplier and its officers, employees, contractors and agents at all times from and against any loss (including legal costs and expenses) incurred or suffered by the Supplier arising from any claims against the Supplier with respect to this Agreement.
 
-### Service Standards
+    ### Service Standards
 
 24. The Supplier must ensure that the Services are provided to the Recipient:
 
     1. promptly, carefully, exercising all due care and skill and judgement, in an efficient and professional manner and in accordance with accepted professional and business practices, using appropriately trained and skilled personnel; and
     2. in a professional manner and to the standard expected of an arms&#39; length service Supplier providing services such as the Services.
 
-### Warranties
+    ### Warranties
 
 25. (General Warranties): Each party (each a Warranting Party) warrants to the other party:
 
@@ -178,7 +178,7 @@ __Updated:__ 01 September 2021
 
 27. (Disclaimer): The Recipient acknowledges that the Services, and the output and deliverable of the Services, may rely on data generated or provided by third parties and the Supplier is not liable or responsible for any damages, harms, errors, misunderstandings, inappropriateness, omissions or inaccuracies in the Services, or for the Recipient&#39;s reliance on the information therein, or for the operation, completeness or quality of the Services. The Recipient acknowledges that its use of the Services is strictly at its own risk.
 
-### Default and Consequences
+    ### Default and Consequences
 
 28. (Event of Default): Specified default events by or in relation to any party for the purpose of this Agreement comprise:
 
@@ -201,7 +201,7 @@ __Updated:__ 01 September 2021
 
 32. (Unilateral termination): Notwithstanding any clause of this Agreement, the Supplier may at any time and without notice terminate this Agreement with effect from the end of the then-current billing cycle and without liability to the Recipient.
 
-### Confidentiality
+    ### Confidentiality
 
 33. (Confidential Information): Subject to clause 34, each party must:
 
@@ -215,25 +215,25 @@ __Updated:__ 01 September 2021
     2. to the extent that disclosure is required to give effect to the terms of this Agreement; or
     3. with the prior written consent of the other party.
 
-### Intellectual Property
+    ### Intellectual Property
 
 35. (Ownership): Title to, and all Intellectual Property Rights in, the Services, any website or Platform, and anything developed or delivered under this Agreement and all Underlying Systems is and remains the property of the Supplier (and its licensors).
 
 36. (Supplier development rights): Subject to clauses 33 and 34 (Confidentiality), the Supplier owns all rights, including Intellectual Property Rights, in anything developed or delivered under this Agreement, including the Services.
 
-### Force Majeure
+    ### Force Majeure
 
 37. (Force Majeure Event): The Supplier will not be liable for any failure to perform or delay in performing an obligation under this Agreement if the failure or delay arose from a Force Majeure Event.
 
 38. (Notice): The Supplier must give the Recipient written notice of the nature and extent of the Force Majeure Event as soon as practicable after becoming aware of it and must take all reasonable steps to mitigate the consequences of the failure or the duration of the delay.
 
-### Amendment
+    ### Amendment
 
 39. (Amendment): This Agreement may only be varied by written agreement between the parties from time to time.
 
 40. (Effectiveness): Any amendment of this Agreement in accordance with this clauses 39 and 40 will have full force and effect as if it were contained in the Agreement on the date that it is signed by all parties.
 
-### General Provisions
+    ### General Provisions
 
 41. (Notices): A notice required to be given under this Agreement must be in writing and delivered using any of the following means:
 
@@ -268,7 +268,7 @@ __Updated:__ 01 September 2021
 50. (Governing law and Jurisdiction): This Agreement is governed by the laws in force in the Australian Capital Territory, Australia the parties submit to the exclusive jurisdiction of the Supreme Court of the Australian Capital Territory to decide any dispute between them in relation to this Agreement.
 
 
-## Schedule 1. Services and Services Fee
+## Schedule 1. Available Services and Available Usage
 
 | **Services**                  | **Service Description**                                                                                                                                          |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -277,3 +277,20 @@ __Updated:__ 01 September 2021
 | Software Development Services | Provision of services which are software related in nature and agreed to by the parties from time to time.                                                       |
 | Support Services              | Provision of services which are technological support services in nature and agreed to by the parties from time to time.                                         |
 | Assorted Services             | Provision of any other services incurred by the Supplier which are not contemplated elsewhere in this Schedule 1 and agreed to by the parties from time to time. |
+
+
+| **Use of Service**    | **Description**                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| Personal Use          | Permits usage of this API for personal use                                           |
+| Academic Research Use | Permits usage of this API for personal academic research.                            |
+| Development Use       | Permits usage of this API for development purposes, by a single agreed entity.       |
+| Commercial Use        | Permits usage of this API for commercial purposes, by a single agreed entity.        |
+| Resale Use            | Permits usage of this API for commercial resale purposes, by a single agreed entity. |
+
+
+## Schedule 2. Use of Service
+
+Agreed Use of Service (clause 12), defined by:
+ * RapidAPI.com Plan selection;
+ * Bushfire.io Plan selection; or
+ * Written correspondance by the Supplier.
