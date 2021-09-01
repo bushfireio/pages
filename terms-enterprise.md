@@ -78,13 +78,13 @@ __Updated:__ 01 September 2021
 
 3. (Drafting responsibility): No provision of this Agreement is to be construed against a party because that party (or that party&#39;s adviser) was responsible for drafting it.
 
-    ### Nature of this Agreement ###
+### Nature of this Agreement ###
 
 4. (Binding nature of Agreement): Each party agrees that this Agreement is binding on that party&#39;s legal personal representative, heirs, successors and permitted assigns.
 
 5. (Exclusion of agency and partnership): Nothing in this Agreement is to be treated as creating a partnership, joint or co-venture or fiduciary obligation between the parties, or any two or more of them, under the laws of any applicable jurisdiction and, except as specifically provided in this Agreement, no party may act or has any authority to act as agent of or trustee for or in any way bind or commit any other party to any obligation.
 
-    ### Objectives and Implementation ###
+### Objectives and Implementation ###
 
 6. (Objectives): Each party creates this Agreement for the purpose of regulating the provision of Services and resources between the parties, and in respect of the Business.
 
@@ -94,13 +94,13 @@ __Updated:__ 01 September 2021
     2. ( **Action** ): perform, or procure the performance of, any action within its power or control necessary or desirable to perform this Agreement; and
     3. ( **Decision** ): not unreasonably delay any action, consent or decision required by that party under this Agreement.
 
-    ### Commencement, Term and Termination ###
+### Commencement, Term and Termination ###
 
 8. (Commencement): Unless expressly stated otherwise in this Agreement, the rights and obligations created by this Agreement commence on, and are enforceable from, the Commencement Date.
 
 9. (Term and termination): This Agreement will continue in full force and effect until it is terminated pursuant to its terms.
 
-    ### Provision of Services
+   ### Provision of Services
 
 10.  (Provision of Services): The Supplier agrees to provide the Services to the Recipient on and subject to the terms of this Agreement.
 
