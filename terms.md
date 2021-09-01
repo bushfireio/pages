@@ -1,11 +1,11 @@
-# Disaster Science - Terms and Conditions
+# General Terms and Conditions
 
 __Updated:__ 01 September 2021
 
 ## Parties
 
 1. **Disaster Science Pty Ltd ABN 306 528 380 63 (Disaster Science).**
-2. **You, A User of Disaster Science's services (User).**
+2. **You, A personal User of Disaster Science's services (User).**
 
 ## Background
 
@@ -15,6 +15,7 @@ __Updated:__ 01 September 2021
    2. has accepted and agrees to be bound by all terms of this Agreement.
 
 2. This Agreement sets out the terms and conditions under which the Disaster Science will perform the Services.
+
 3. Capitalised terms in this &#39;Background&#39; section are defined in clause 1 - 3 below.
 
 ## Operative Provisions

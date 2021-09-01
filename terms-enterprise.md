@@ -1,4 +1,4 @@
-# Disaster Science - Enterprise Services Agreement
+# Enterprise Services Agreement
 
 __Updated:__ 01 September 2021
 
@@ -106,7 +106,7 @@ __Updated:__ 01 September 2021
 
 ### Recipient Obligations
 
-12. (Default Use of Services): Unless otherwise agreed in writing or as part of a formal Product offering, The Recipient, must:
+12. (Default Use of Services): Unless otherwise agreed in writing or as part of a Product offering by the Supplier forming Schedule 2, the Recipient must:
 
     1. use the Services exclusively for its personal purposes limited to viewing data on natural disasters and emergency incidents for and relation to only the Recipient;
     2. use the Services in accordance with all applicable laws;
