@@ -23,7 +23,9 @@ __Updated:__ 01 September 2021
 
 **IT IS AGREED** as follows:
 
+
 ### Definitions and Intrepretation
+
 1. (Definitions): In this Agreement, unless the context otherwise requires:
 
     **Business Day** means a day which is not a Saturday, Sunday or a public holiday in the Australian Capital Territory.
@@ -76,13 +78,17 @@ __Updated:__ 01 September 2021
 
 3. (Drafting responsibility): No provision of this Agreement is to be construed against a party because that party (or that party&#39;s adviser) was responsible for drafting it.
 
+
     ### Nature of this Agreement
+
 
 4. (Binding nature of Agreement): Each party agrees that this Agreement is binding on that party&#39;s legal personal representative, heirs, successors and permitted assigns.
 
 5. (Exclusion of agency and partnership): Nothing in this Agreement is to be treated as creating a partnership, joint or co-venture or fiduciary obligation between the parties, or any two or more of them, under the laws of any applicable jurisdiction and, except as specifically provided in this Agreement, no party may act or has any authority to act as agent of or trustee for or in any way bind or commit any other party to any obligation.
 
+
     ### Objectives and Implementation
+
 
 6. (Objectives): Each party creates this Agreement for the purpose of regulating the provision of Services and resources between the parties, and in respect of the Business.
 
@@ -91,6 +97,7 @@ __Updated:__ 01 September 2021
     1. ( **Information** ): provide accurate information to each other party in relation to the Services and the Business;
     2. ( **Action** ): perform, or procure the performance of, any action within its power or control necessary or desirable to perform this Agreement; and
     3. ( **Decision** ): not unreasonably delay any action, consent or decision required by that party under this Agreement.
+
 
     ### Commencement, Term and Termination
 

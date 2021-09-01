@@ -81,6 +81,7 @@ __Updated:__ 01 September 2021
     5. A reference to a &quot;person&quot; includes an individual, a firm, a body corporate, a partnership, a joint venture, an unincorporated body or association or any authority.
     6. References to dollars or $ is a reference to Australian dollars, unless denoted as referring to an international currency.
 
+
     ### Nature of this Agreement
 
 3. (Consent to this Agreement): By making the relevant clickwrap consent or checking / ticking the relevant box at the end of this Agreement (or as otherwise set out by Disaster Science), the User agrees and acknowledges that the User:
@@ -88,11 +89,13 @@ __Updated:__ 01 September 2021
     1. has read and understood the terms of this Agreement; and
     2. has accepted and agrees to be bound by all terms of this Agreement.
 
+
     ### Provision of Services
 
 4. (Provision of Services): Disaster Science agrees to provide the Services to the User on and subject to the terms of this Agreement.
 
 5. (Third Parties): The User acknowledges that the Services may be reliant on Third Parties that Disaster Science has no control over. Disaster Science makes no warranty or representation on the availability of any Third Party. If Third Party services or Services are unavailable or cannot be accessed by Disaster Science, Disaster Science may cease to supply the Services, and the User is not entitled to any refund, discount or other compensation. In the event that a Third Party is not available, or a component of the Services, are ceased, Disaster Science will use reasonable efforts to restore the Services in a timely manner, either incrementally or in full where reasonably possible.
+
 
     ### User Obligations
 
@@ -120,6 +123,7 @@ __Updated:__ 01 September 2021
     2.  it would involve the contravention of any person&#39;s rights (including Intellectual Property Rights and privacy rights);
     3.  it may breach any laws; or
     4.  it involves fraudulent activity.
+
 
     ### Services Fee and Expenses
 
