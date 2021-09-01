@@ -81,14 +81,12 @@ __Updated:__ 01 September 2021
 
     ### Nature of this Agreement
 
-
 4. (Binding nature of Agreement): Each party agrees that this Agreement is binding on that party&#39;s legal personal representative, heirs, successors and permitted assigns.
 
 5. (Exclusion of agency and partnership): Nothing in this Agreement is to be treated as creating a partnership, joint or co-venture or fiduciary obligation between the parties, or any two or more of them, under the laws of any applicable jurisdiction and, except as specifically provided in this Agreement, no party may act or has any authority to act as agent of or trustee for or in any way bind or commit any other party to any obligation.
 
 
     ### Objectives and Implementation
-
 
 6. (Objectives): Each party creates this Agreement for the purpose of regulating the provision of Services and resources between the parties, and in respect of the Business.
 
