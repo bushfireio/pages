@@ -133,7 +133,7 @@ __Updated:__ 01 September 2021
     3. it may breach any laws; or
     4. it involves fraudulent activity.
 
-    ### Services Fee and Expenses
+    ### Services Fee and Expenses ###
 
 15. (Fee): In consideration of the provision of the Services the Recipient agrees to pay the Services Fee to the Supplier.
 
