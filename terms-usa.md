@@ -173,9 +173,7 @@ You agree to indemnify and hold Disaster Science, its parents, subsidiaries, aff
 
 ## 19. GOVERNING LAW
 
-If you are a resident of the United States of America, these Terms of Service and any claim arising out of these Terms will be governed by and construed in accordance with the laws of the State of Delaware.
-
-If you are a resident of Australia or any other country outside of the United States of America  these Terms of Service and any claim arising out of these Terms will be governed by and construed in accordance with the laws of the Australia.
+These Terms of Service and any claim arising out of these Terms will be governed by and construed in governed by the laws in force in the Australian Capital Territory.
 
 ## 20. SURVIVAL
 
