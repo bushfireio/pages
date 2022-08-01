@@ -173,7 +173,7 @@ You agree to indemnify and hold Disaster Science, its parents, subsidiaries, aff
 
 ## 19. GOVERNING LAW
 
-These Terms of Service and any claim arising out of these Terms will be governed by and construed in governed by the laws in force in the Australian Capital Territory.
+These Terms of Service and any claim arising out of these Terms will be governed by and construed in governed by the laws in force in the Australian Capital Territory, Australia.
 
 ## 20. SURVIVAL
 
