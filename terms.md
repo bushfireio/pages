@@ -1,8 +1,8 @@
 # Terms of Service
 
-__Updated:__ 15 July 2022
+__Updated:__ 01 August 2022
 
-__Effective Date:__ 15 July 2022
+__Effective Date:__ 01 August 2022
 
 
 This Terms of Service is a contract entered into by and between You ("**you**" or "**User**") and Disaster Science Pty Ltd ("**Disaster Science**," "**We**," or "**us**") and our affiliates, to the extent expressly stated. These terms and conditions (together with our [Privacy Policy](/privacy), the "**Terms of Service**" or "**Terms**") govern your access to and use of https://bushfire.io/ (**"Website**"), our Bushfire.io mobile application ("**App**") and any software, application, content, functionality, and services (collectively, the "**Services**") offered by Disaster Science, whether as a guest or registered user.
